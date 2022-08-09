@@ -1,0 +1,18 @@
+{
+    "name": "Gym Bros",
+    "short_name": "GymBros",
+    "theme_color": "/css/bootstrap.min.css",
+    "background_color": "/css/tooplate-gymso-style.css",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src":"./images/foto_gym.png",
+            "type": "image/png",
+            "sizes": "600x600"
+        }
+    ]
+
+}
